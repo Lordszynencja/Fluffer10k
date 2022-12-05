@@ -7,16 +7,16 @@
     "643404810770448385" : {
       "lastJobMessageId" : null,
       "monmusuMarket" : {
+        "GIANT_ANT" : 1,
+        "SLIME" : 1,
+        "KUNOICHI" : 1,
         "TRUMPART" : 1,
-        "JIANGSHI" : 1,
         "HOLSTAUR" : 1,
-        "UMI_OSHO" : 1,
         "FLOW_KELP" : 1,
+        "JIANGSHI" : 1,
         "MYCONID" : 1,
         "JINKO" : 1,
-        "GIANT_ANT" : 1,
-        "KUNOICHI" : 1,
-        "SLIME" : 1
+        "UMI_OSHO" : 1
       },
       "modRoleId" : null,
       "botChannelId" : null,
