@@ -20,7 +20,7 @@ public class Fluffer10k {
 			new Fluffer10k();
 		} catch (final Exception e) {
 			try {
-				Thread.sleep(10_000);
+				Thread.sleep(2_000);
 			} catch (final InterruptedException e1) {
 				e1.printStackTrace();
 			}
